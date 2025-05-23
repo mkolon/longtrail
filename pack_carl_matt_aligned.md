@@ -22,21 +22,20 @@
 | Solo Pot / Windscreen      |        |        |
 | Mug                        |        |        |
 | Food storage               |        |        |
-| Eating Utensil             |        |        |
-| Toothbrush                 |        |        |
-| Tooth Paste                |        |        |
-| Deoderant                  |        |        |
-| Purifying Water            |        |        |
+| Eating Utensil             |  spork |  spork |
+| Toothbrush                 |        |   got  |
+| Tooth Paste                |        |   got  |
+| Purifying Water            |        | squeeze|
 | Sunscreen                  |        |        |
 | Biodegradable Soap         |        |        |
 | Bug Repellent              |        |        |
 | Bear Bagging               |        | Share  |
 | First Aid Kit              | Share  |        |
-| Repair Kit                 |        |        |
+| Repair Kit                 | Share  |        |
 | Fire Kit                   | Share  |        |
-| Cutting                    |        |        |
+| Cutting                    |        |ltherman|
 | Sunglasses                 |        |        |
-| Compass                    |        |        |
+| Compass                    |        | Share  |
 | Maps                       |        | Share  |
 | Headlamp                   |        |        |
 | Communications             |        |        |
