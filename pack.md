@@ -37,8 +37,8 @@
 | Cutting                    | pocket l-man    |   Leatherman    | share          |
 | Sunglasses                 | sunskis+shields |       PVs       |                |
 | Sun hat                    | blue wide brim  |                 |                |
-| Compass                    |                 |       got       | share          |
+| Compass                    |                 |    Suunto       | share          |
 | Maps                       |                 |                 |                |
 | Headlamp                   | nitecore UL     |                 |                |
 | Communications             |      iPhone     |      iPhone     |                |
-| Charging                   | NC N10000       |                 |                |
+| Charging                   | NC N10000       | Anker Slim 10k  |                |
