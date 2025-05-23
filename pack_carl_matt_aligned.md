@@ -2,7 +2,7 @@
 | -------------------------- | ------ | ------ |
 | Sleeping Quilt             |        |        |
 | Sleeping Pad               |        |        |
-| Solo Shelter               |        |        |
+| Solo Shelter               | Share  |        |
 | Medium Backpack            |        |        |
 | Hold Quilt                 |        |        |
 | Hold Clothes               |        |        |
@@ -30,13 +30,13 @@
 | Sunscreen                  |        |        |
 | Biodegradable Soap         |        |        |
 | Bug Repellent              |        |        |
-| Bear Bagging               |        |        |
-| First Aid Kit              |        |        |
+| Bear Bagging               |        | Share  |
+| First Aid Kit              | Share  |        |
 | Repair Kit                 |        |        |
-| Fire Kit                   |        |        |
+| Fire Kit                   | Share  |        |
 | Cutting                    |        |        |
 | Sunglasses                 |        |        |
 | Compass                    |        |        |
-| Maps                       |        |        |
+| Maps                       |        | Share  |
 | Headlamp                   |        |        |
 | Communications             |        |        |
