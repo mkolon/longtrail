@@ -38,7 +38,7 @@
 | Sunglasses                 | sunskis+shields |       PVs       |                |
 | Sun hat                    | blue wide brim  |                 |                |
 | Compass                    |                 |    Suunto       | share          |
-| Maps                       |                 |                 |                |
-| Headlamp                   | nitecore UL     |                 |                |
+| Maps                       |                 |  GMC Guide Boo  |                |
+| Headlamp                   | nitecore UL     |  Black Diamond  |                |
 | Communications             |      iPhone     |      iPhone     |                |
 | Charging                   | NC N10000       | Anker Slim 10k  |                |
