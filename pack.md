@@ -14,7 +14,8 @@
 | Baselayer - Socks          |                 |                 |                |
 | Baselayer - Upper Body S/S |                 |                 |                |
 | Bug Headnet                | got             |                 |                |
-| Insulation - Hands         | wool lnrs+shell |                 |                |
+| Camp shoes                 |                 |                 |                |
+| Insulation - Hands          | wool lnrs+shell  |                 |                |
 | Insulation - Head          | hat             |                 |                |
 | Insulation - Upper Body    | down puff hoodi |                 |                |
 | Shell (Rain) - Jacket      | OR shell        |                 |                |
