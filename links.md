@@ -1,0 +1,3 @@
+- [A guide to Long Trail planning](https://www.longtrailvermont.com/)
+- [Long Distance Hiker](https://www.longdistancehiker.com/)
+- [Green Mountain Club](https://www.greenmountainclub.org/)
