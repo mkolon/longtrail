@@ -1,10 +1,10 @@
 | Function                | Carl            | Matt            |
 | ----------------------- | --------------- | --------------- |
-| Shirt                   |                 |                 |
+| Shirt                   |                 |      Wool!      |
 | Socks - Hiking          |                 |                 |
-| Hiking Poles            |                 |                 |
-| Phone/Camera/GPS        |                 |                 |
-| Watch, Alarm, Altimeter |                 |                 |
+| Hiking Poles            |                 |  REI Traverse   |
+| Phone/Camera/GPS        |                 |     iPhone      |
+| Watch, Alarm, Altimeter |                 |     Garmin      |
 | Bear Agitator           |                 |                 |
 | Hiking Pants            |                 |                 |
 | Hiking Shoes            |                 |                 |

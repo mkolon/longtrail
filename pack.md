@@ -1,7 +1,7 @@
 | Function                   | Carl            | Matt            |    Comments    |
 | -------------------------- | --------------- | --------------- |--------------- |
 | Sleeping Quilt             | 20F down kelty  |                 |                |
-| Sleeping Pad               | nemo tensor     |                 |                |
+| Sleeping Pad               | nemo tensor     | nemo tensor     |                |
 | Solo Shelter               | x mid           |                 | share (small)  |
 | Medium Backpack            | maybe new one   |                 |                |
 | Hold Quilt                 |                 |                 |                |
@@ -13,7 +13,7 @@
 | Fuel Bottle                | 4oz can + valve |                 | share          |
 | Baselayer - Socks          |                 |                 |                |
 | Baselayer - Upper Body S/S |                 |                 |                |
-| Bug Headnet                | got             |                 |                |
+| Bug Headnet                | got             |  Sea to Summit  |                |
 | Insulation - Hands         | wool lnrs+shell |                 |                |
 | Insulation - Head          | hat             |                 |                |
 | Insulation - Upper Body    | down puff hoodi |                 |                |
