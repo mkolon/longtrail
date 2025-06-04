@@ -7,4 +7,4 @@
 | Watch, Alarm, Altimeter |                 |     Garmin      |
 | Bear Agitator           |                 |                 |
 | Hiking Pants            |                 |                 |
-| Hiking Shoes            |                 |                 |
+| Hiking Shoes            |                 |   SpeedGoats    |
