@@ -1,7 +1,7 @@
 | Function                | Carl            | Matt            |
 | ----------------------- | --------------- | --------------- |
 | Shirt                   |                 |      Wool!      |
-| Socks - Hiking          |                 |                 |
+| Socks - Hiking          |                 |     DarnTough   |
 | Hiking Poles            |                 |  REI Traverse   |
 | Phone/Camera/GPS        |                 |     iPhone      |
 | Watch, Alarm, Altimeter |                 |     Garmin      |
