@@ -2,3 +2,4 @@
 - [Long Distance Hiker](https://www.longdistancehiker.com/)
 - [Green Mountain Club](https://www.greenmountainclub.org/)
 - [Trail Journals](https://www.trailjournals.com)
+- Reddit [r/longtrail forum](https://www.reddit.com/r/longtrail/)
